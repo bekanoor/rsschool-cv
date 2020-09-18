@@ -21,7 +21,7 @@ Basic skills on: js, css, html, markdown, c#, react, git.
 
 ---
 
-# Example code:
+# Example code
 
 ```
 const codeRed= () => "I don't have a good code  example. Hopefully it will show up soon."
