@@ -20,3 +20,25 @@ About yourself: I'm young guy who decided escape from pyaterochka and do somethi
 Basic skills on: js, css, html, markdown, c#, react, git.
 
 ---
+
+# Example code:
+
+```
+const codeRed= () => "I don't have a good code  example. Hopefully it will show up soon."
+
+```
+---
+
+# Work experience
+No work experience.
+
+---
+
+# Education
+Courses: Code Basics (js, html, css), webDev channel html courses, my friend who train me. 
+Books: JavaScript for Kids: A Playful Introduction to Programming.
+
+---
+
+# English language
+Level: pre-intermediate :)
