@@ -1,0 +1,41 @@
+.avatar {
+    border: 2px solid #166ab8;
+    padding: 5px;
+    text-align: center;
+    display: block;
+}
+.asideBlock {
+    margin-left: 5%;
+    width: 15%;
+    float: left;
+    display: block;
+}
+.mainBlock {
+    margin-left: auto;
+    width: 75%;
+    display: block;
+}
+.infoBlock {
+    width: 300px;
+}
+h1 {
+    color: #166ab8;
+    font-size: 200%;
+}
+p {
+    font-size: 18px;
+}
+hr {
+    color: #166ab8;
+    vertical-align: bottom;
+}
+li {
+    font-size: 18px;
+}
+td {
+    width: 500px;
+    vertical-align: top;
+}
+table {
+    border-spacing: 150px 0px; 
+}
